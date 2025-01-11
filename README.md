@@ -1,7 +1,7 @@
 # nmwks
 Download and Upload scripts to a N0120 
 Tested with firmware version 23.2.5
-
+Requires pyusb and libusb, tested on Windows and MacOS
 ```bash
 usage: main.py [-h] [-d] [-p] [-u] directory
 
