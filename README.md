@@ -7,6 +7,11 @@ Requires pyusb and libusb, tested on Windows and MacOS
 
 ## USE AT YOUR OWN RISK
 
+1. Download the scripts to a folder on your computer.
+2. Add or change the scripts.
+3. OPTIONAL : Use -p to modify .sys files. (don't delete them)
+4. Upload the folder to the calculator
+
 ```bash
 usage: main.py [-h] [-d] [-p] [-u] directory
 
